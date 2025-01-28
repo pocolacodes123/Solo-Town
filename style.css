@@ -17,7 +17,7 @@ body{
 
 }
 .HomepageDiv{
-    background-image:url("/images/images_2.png");
+    background-image:url("images_2.png");
     width:100%;
     background-size: cover;
     background-repeat:no-repeat;
