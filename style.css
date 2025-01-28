@@ -1,0 +1,162 @@
+body{
+    
+    margin:0px;
+    background-color:black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+
+    
+
+
+    
+ 
+    
+ 
+
+}
+.HomepageDiv{
+    background-image:url("/images/images_2.png");
+    width:100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:400px;
+    
+
+ 
+   
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    
+ 
+
+
+
+}
+.Text-box{
+    width:200px;
+    height:50px;
+    border:1.5px solid #BDC00C ;
+    border-radius:12px;
+    margin-bottom:200px;
+    margin-right:auto;
+    margin-left:auto;
+   
+    font-size:28px;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    color: white;
+    
+
+
+}
+.Text-box-2{
+    width:400px;
+    height:80px;
+    border:1.5px solid #BDC00C ;
+    border-radius:12px;
+    margin-bottom:10px;
+    
+  
+    font-size:28px;
+    text-align:center;
+    margin-right:auto;
+    margin-left: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color: white;
+
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size: large;
+    
+}
+.Activities-town{
+    border:3px solid #BDC00C ;
+    width: 80%;
+    height:300px;
+    margin-left: 1px;
+    margin-right:1px;
+    border-radius: 10px;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;;
+    
+    
+    
+
+}
+.img-act{
+    width:25%;
+    height:55%;
+   
+    
+
+}
+.Tour-Guide{
+    border:5px solid #BDC00C;
+    width:300px;
+    height:200px;
+    margin-top:30px;
+    padding-bottom: 10px;
+    overflow: visible;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    
+}
+.Tour-pic{
+    width:30%;
+    margin:15px;
+}
+.Tour-bold{
+    color: white;
+   
+    
+
+}
+.Tour-bold-container{
+    position:relative;
+    bottom:120px;
+    left:150px;
+    font-size:25px;
+    font-weight:bold;
+    
+
+    
+ 
+}
+.Tour-light-container{
+    position:relative;
+    width:140px;
+
+    bottom:160px;
+    left:150px;
+
+}
+.Tour-light{
+    color:white;
+
+}
+.Tour-name-container{
+    position:relative;
+    bottom:200px;
+    left:150px;
+
+   
+}
+.Tour-name{
+    color:white;
+    font-size:25px ;
+    font-weight: bold;
+
+}
